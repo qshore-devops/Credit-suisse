@@ -5,3 +5,5 @@ print(a+b)
 print(b-a)
 print(a*b)
 print(b/a)
+
+#above code is a sample code to implement few examples in git
